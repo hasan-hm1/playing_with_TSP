@@ -1,3 +1,3 @@
-## Comparison of several algorithms for solving the travelling salesman problem
+## Comparison of several algorithms for solving the Travelling Salesman Problem
 
 _(graduation project)_
